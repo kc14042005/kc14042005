@@ -1,112 +1,118 @@
-<!-- ================= HEADER ================= -->
-
 <h1 align="center">Hi 👋, I'm Kishan Chauhan</h1>
-<h3 align="center">🛡️ Cybersecurity Fresher | MSc IT (Cybersecurity) | Aspiring SOC Analyst</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | 🚀 Full Stack Developer | 🛡️ Ethical Hacking Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Learner;VAPT%20%7C%20OWASP%20Top%2010;SOC%20Analyst%20Aspirant;Ethical%20Hacking&center=true&width=500&height=45">
+  <img src="https://komarev.com/ghpvc/?username=kc14042005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 About Me
 
-* 🎓 MSc IT (Cybersecurity) Postgraduate
-* 🔐 Passionate about Web Application Security & Ethical Hacking
-* 🧠 Learning: **VAPT, SIEM, Log Analysis & Incident Response**
-* 🧪 Practicing real-world attack labs
-* 🎯 Goal: SOC Analyst / Security Analyst
-
----
-
-## 🛠️ Skills
-
-### 🔒 Cybersecurity
-
-* Vulnerability Assessment & Penetration Testing (VAPT)
-* OWASP Top 10 Testing
-* SQL Injection & NoSQL Injection
-* Cross-Site Scripting (XSS)
-* Authentication & Access Control Testing
-* JWT Manipulation
-* Basic Network Analysis
-
-### 💻 Programming
-
-`Python` `JavaScript` `PHP` `C` `C++`
-
-### 🌐 Web
-
-`HTML` `CSS` `React` `Node.js` `MongoDB` `MySQL`
-
-### 🧰 Tools
-
-`Burp Suite` `Nmap` `Wireshark` `Metasploit` `Kali Linux`
+- 🔭 I’m currently working on **Vulnerable E-Commerce Website (Educational Purpose)**
+- 🌱 Learning **Advanced Web Security & MERN Stack**
+- 👯 Looking to collaborate on **Cybersecurity Projects**
+- 💬 Ask me about **React, Node.js, JavaScript, Cybersecurity**
+- 📫 Reach me at: **your-email@gmail.com**
+- ⚡ Fun fact: I debug better at midnight 🌙💻
 
 ---
 
-## 🧪 Practice Platforms
+# 🛠️ Tech Stack
 
-* TryHackMe
-* HackTheBox
-* PortSwigger Web Security Academy
+## 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,php,cpp,c" />
+</p>
+
+## 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,redux" />
+</p>
+
+## 🖥 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+## ⚙ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git" />
+</p>
+
+## 🔐 Cybersecurity Tools
+- Nmap
+- Wireshark
+- Burp Suite
+- Nessus
+- Metasploit
 
 ---
 
-## 📂 Projects
+# 🏆 GitHub Achievements
 
-* 🔐 Vulnerable E-Commerce Security Lab
-* 🤖 AI Web Vulnerability Scanner
-* 🌐 Secure Full Stack Web Applications
-
----
-
-## 📚 Currently Learning
-
-* SIEM Monitoring
-* Log Analysis
-* Incident Response
-* Threat Detection
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kc14042005&theme=matrix&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kc14042005&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kc14042005&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc14042005&layout=compact&theme=radical" />
+</p>
+
+---
+
+# 📝 Latest Dev.to Blogs
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+---
+
+# 📝 Latest Medium Blogs
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+---
+
+# 🌎 Connect With Me
 
 <p align="left">
-
-<a href="https://github.com/kc14042005" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/kc14042005" target="blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/kishan-chauhan-abb0173b0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/kishan-chauhan-abb0173b0/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="kc14012005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://twitter.com/yourusername" target="blank">
+<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
 </a>
-
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# ☕ Support Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<p>
+<a href="https://buymeacoffee.com/yourusername">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee" />
+</a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-I like breaking my own projects first — so attackers can't 😄
-
----
-
-⭐ Always Learning • Always Securing
+⭐ From [Kishan Chauhan](https://github.com/kc14042005)
