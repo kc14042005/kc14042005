@@ -13,7 +13,7 @@
 - 🌱 Learning **Advanced Web Security & MERN Stack**
 - 👯 Looking to collaborate on **Cybersecurity Projects**
 - 💬 Ask me about **React, Node.js, JavaScript, Cybersecurity**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **kc14012005@gmail.com**
 - ⚡ Fun fact: I debug better at midnight 🌙💻
 
 ---
